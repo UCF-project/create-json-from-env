@@ -1,0 +1,19 @@
+{
+  "name": "create-json-from-env",
+  "version": "0.1.0",
+  "description": "Create a json output from your environment variables.",
+  "main": "api.js",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "UCF Project <ucf-project@alterway.fr>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "meow": "^3.7.0"
+  },
+  "devDependencies": {
+    "ava": "^0.14.0"
+  }
+}
